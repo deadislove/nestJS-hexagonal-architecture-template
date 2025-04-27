@@ -21,6 +21,9 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+![Visitors](https://img.shields.io/badge/visitors-0_total-brightgreen)
+![Clones](https://img.shields.io/badge/clones-0_total_0_unique-blue) <!--CLONE-BADGE-->
+
 # Project Overview
 
 This project is a backend service built with [Nest](https://github.com/nestjs/nest) and **TypeScript**, designed with a clean **Hexagonal Architecture** (Ports and Adapters) pattern, combined with ideas from **Onion Architecture** to ensure strong separation of concerns.
@@ -28,6 +31,8 @@ This project is a backend service built with [Nest](https://github.com/nestjs/ne
 It integrates **TypeORM** for ORM functionalities and supports dynamic switching between **MySQL**, **PostgreSQL**, and **SQLite** databases through a factory pattern for flexible database configuration.
 
 The project emphasizes **modularity**, **scalability**, and **maintainability**, making it a solid foundation for building robust and future-proof backend services.
+
+<a href='https://ko-fi.com/F1F82YR41' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Project Structure
 ```
