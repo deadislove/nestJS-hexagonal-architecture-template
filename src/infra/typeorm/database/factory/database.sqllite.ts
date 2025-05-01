@@ -11,11 +11,6 @@ export class SQLiteDatabase {
         return {
             type: 'sqlite',
             database: `./database.sqlite`,
-            //database: this.configService.get<string>('DB_NAME', `database.sqlite`),
-            // entities: [
-            //     UserTypeOrmEntity,
-            //     ProductTypeOrmEntity,
-            // ],
             entities,
             synchronize: true
         }
